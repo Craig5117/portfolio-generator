@@ -59,7 +59,7 @@ const promptUser = () => {
 };
 
 const promptProject = portfolioData => {
-  console.log(portfolioData);
+  // console.log(portfolioData);
   if (!portfolioData.projects) {
     portfolioData.projects = [];
   }
