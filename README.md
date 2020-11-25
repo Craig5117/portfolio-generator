@@ -38,7 +38,7 @@ Clone this repo to a directory on your machine.
 
 After you clone this repo, go to its root directory and run npm install to install its dependencies.
 
-Once the dependencies are installed, you can run node app in the CLI to start the application. You will then be prompted for input including your name, GitHub username, and some information about yourself (about is optional). After completing the initial prompt for your info, you will be prompted for info on your GitHub projects. Supply the project name, description, languages, and link. Choose whether to feature the project, and choose whether to enter another projects. When you are done, a website with your portfolio will be genearated to the dist directory.
+Once the dependencies are installed, you can run node app in the CLI to start the application. You will then be prompted for input including your name, GitHub username, and some information about yourself (about is optional). After completing the initial prompt for your info, you will be prompted for info on your GitHub projects. Supply the project name, description, languages, and link. Choose whether to feature the project, and choose whether to enter another projects. When you are done, a website with your portfolio will be generated to the dist directory.
 
 [Back to Contents](#table-of-contents)
 
